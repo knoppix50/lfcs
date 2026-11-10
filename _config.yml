@@ -3,5 +3,4 @@ description: Apuntes y laboratorios de administración de sistemas Linux
 remote_theme: just-the-docs/just-the-docs
 baseurl: /lfcs
 color_scheme: dark
-custom_css:
-  - assets/css/custom.css
+
