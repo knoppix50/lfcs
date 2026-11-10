@@ -2,6 +2,7 @@
   .side-bar {
     width: 20% !important;
     max-width: none !important;
+    min-width: 0 !important;
   }
 
   .main {
@@ -13,5 +14,9 @@
     max-width: 100% !important;
     padding-left: 2.5rem !important;
     padding-right: 2.5rem !important;
+  }
+
+  .site-header, .site-nav, .site-footer {
+    width: 100% !important;
   }
 }
