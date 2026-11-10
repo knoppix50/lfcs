@@ -3,4 +3,5 @@ title: Introducción
 nav_order: 1
 ---
 
-# Linux Foundation Certified System Administrator
+# lfcs
+Linux Foundation Certified System Administrator
