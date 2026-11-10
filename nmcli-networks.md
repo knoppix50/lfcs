@@ -1,7 +1,7 @@
 ---
-title: Gestión de Usuarios y Permisos
-nav_order: 1
+title: Configuración de Redes (nmcli)
+nav_order: 2
 ---
 
-# Gestión de Usuarios y Permisos
+# Gestión de Redes
 Aquí empieza el contenido de tu tema...
